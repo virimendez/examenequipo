@@ -1,0 +1,65 @@
+/*....................HEADER........................*/
+.hero{
+color: white;
+font-size: 20px;
+margin-top: 10px;
+}
+header ul{
+text-align: right;
+}
+header li{
+list-style-type: none;
+display: inline-block;
+margin-right: 10px;
+margin-top:5px;
+}
+header a{
+text-decoration: none;
+color: white !important;
+margin-left: 8px;
+}
+
+.back1{
+background-image: url(../img/background/hero.jpg);
+height: 600px;
+background-size: 100% 100%;
+}
+.opaco{
+-webkit-filter:brightness(70%);
+}
+.texprim{
+text-align: center;
+margin-top: 90px;
+color: white;
+font-size: 40px;
+}
+.text1{
+margin-top: 60px;
+text-align: center;
+color:white;
+font-size: 20px;
+}
+.btn-black{
+width: 90px;
+height: 30px;
+display: inline-block;
+background-color: black;
+opacity: 0.7;
+margin-left: 450px;
+margin-top: 80px;
+}
+.btn-white{
+width: 90px;
+height: 30px;
+display: inline-block;
+background-color: transparent;
+opacity: 0.7;
+margin-left: 60px;
+margin-top: 80px;
+}
+
+/*...................FOOTER............................*/
+
+.bgfoo{
+	background-color: #1C1C1C;
+}
